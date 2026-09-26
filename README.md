@@ -1,51 +1,97 @@
-# MarketPlace
+ETHMARKET 🚀
 
-Discover. Compare. Invest.
+Discover. Compare. Invest. In Your Language.
 
-Beginner-friendly crypto marketplace. The mobile app talks to this API, which loads public asset data from True Markets. Quotes and orders are sent to True Markets only when server trading credentials are configured, and only after the user confirms an order.
+👥 TEAM
 
-## Apps
+Tsehaynesh Biruh
+Full-Stack Software Engineer
+tsehayneshbiruh2@gmail.com
 
-- `mobile/` — Expo + React Native + TypeScript
-- `backend/` — Express + TypeScript + MongoDB
+Mahilet Biruh
+Product & Development Lead
+mahiletbiruh35@gmail.com
 
-## Run the API
+ 🎯 THE PROBLEM
 
-```powershell
-cd backend
-npm install
-copy .env.example .env
-npm run dev
-```
+Digital assets are becoming more accessible, but beginners still struggle with **understanding**.
 
-Health check: `GET http://localhost:5000/api/health`
+Information is technical, scattered, difficult to verify, and often unavailable in the language users understand best.
 
-Put secrets only in `backend/.env`. Do not commit that file. True Markets private keys stay on the server (`TRUE_MARKETS_KEY_FILE` or `TRUE_MARKETS_KEY_ID` + `TRUE_MARKETS_PRIVATE_KEY`).
+The real problem is simple:
 
-`PORTFOLIO_SOURCE=demo` stores a labeled practice portfolio. It is not a live brokerage balance.
+**Access without enough understanding.**
 
-## Run the app
+💡 OUR SOLUTION
 
-```powershell
-cd mobile
-npm install
-npx expo start
-```
+EthMarket helps users **understand before they act**.
 
-The app uses `http://localhost:5000` on web, `http://10.0.2.2:5000` on the Android emulator, and this computer's LAN address on a physical phone. Override with `EXPO_PUBLIC_API_BASE_URL` in `mobile/.env`.
+🔎 **Discover** assets
+📚 **Understand** what they are
+⚖️ **Compare** assets
+📈 **Check live data**
+💱 **Review Buy/Sell actions**
+⭐ **Save** assets to a watchlist
 
-## Useful routes
+ 🔗 TRUE MARKETS INTEGRATION
 
-- `POST /api/auth/register`
-- `POST /api/auth/login`
-- `GET /api/auth/me`
-- `PATCH /api/auth/me`
-- `GET /api/markets`
-- `GET /api/markets/:symbol`
-- `GET /api/watchlist`
-- `POST /api/watchlist/toggle`
-- `GET /api/trading/capabilities`
-- `POST /api/trading/quote`
-- `POST /api/trading/orders`
+True Markets powers EthMarket's live market layer.
 
-`GET /api/trading/capabilities` reports whether quotes and orders are actually configured. The app does not invent a successful trade when they are not.
+Our backend securely connects to the **True Markets Gateway API** and retrieves authenticated **BTC/USDC live quotes**.
+
+🟢 **LIVE** = Real-time True Markets data
+🟡 **PREVIEW** = Sample UI data only
+🔴 **UNAVAILABLE** = Live data could not be retrieved
+
+No fake live prices are shown.
+
+## 🏆 WHAT MAKES ETHMARKET DIFFERENT
+We don't start with “Buy.” We start with “Understand.
+
+EthMarket combines **education + comparison + live market data + action review** in one beginner-friendly experience.
+
+ ✨ KEY FEATURES
+
+📚 Understand
+Simple digital-asset education.
+
+⚖️ Compare
+Side-by-side asset comparison.
+
+📈 Live Market Data
+Authenticated True Markets BTC/USDC quotes.
+
+💱Buy/Sell Review
+Review actions using live market prices.
+
+⭐ Watchlist
+Save assets for future research.
+
+🌍 Multilingual
+English, Amharic, French, and Spanish.
+
+🎨 Personalization
+Light, Dark, and System themes.
+
+🔄 USER JOURNEY
+
+Discover → Understand → Compare → Live Data → Action → Watchlist
+
+ 🛠️ TECHNOLOGY
+
+⚛️ React Native + Expo + TypeScript
+🟢 Node.js + Express + TypeScript
+🍃 MongoDB Atlas
+🔗 True Markets Gateway API
+🔐 Server-side authentication & credential management
+
+🌍 OUR VISION
+
+Our long-term goal is to make EthMarket accessible to **300,000+ users**.
+
+We want to make digital-asset markets easier to understand, more accessible across languages, and more responsible for beginners.
+
+Understand before you act.
+Discover. Compare. Invest. In Your Language.<img width="994" height="1004" alt="image" src="https://github.com/user-attachments/assets/5dc2b5e9-bb00-4540-9011-342e3485f3d1" /> <img width="939" height="864" alt="image" src="https://github.com/user-attachments/assets/305a7892-9756-4456-bd55-dab068732c81" />
+
+
