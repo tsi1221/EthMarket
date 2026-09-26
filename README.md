@@ -92,6 +92,8 @@ Our long-term goal is to make EthMarket accessible to **300,000+ users**.
 We want to make digital-asset markets easier to understand, more accessible across languages, and more responsible for beginners.
 
 Understand before you act.
-Discover. Compare. Invest. In Your Language.<img width="994" height="1004" alt="image" src="https://github.com/user-attachments/assets/5dc2b5e9-bb00-4540-9011-342e3485f3d1" /> <img width="939" height="864" alt="image" src="https://github.com/user-attachments/assets/305a7892-9756-4456-bd55-dab068732c81" />
+Discover. Compare. Invest. In Your Language.
+<img width="939" height="864" alt="image" src="https://github.com/user-attachments/assets/68707e3d-8ec5-4242-ae9d-96cdfce6b00a" />
+<img width="994" height="1004" alt="image" src="https://github.com/user-attachments/assets/5dc2b5e9-bb00-4540-9011-342e3485f3d1" />
 
 
