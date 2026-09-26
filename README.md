@@ -94,6 +94,13 @@ We want to make digital-asset markets easier to understand, more accessible acro
 Understand before you act.
 Discover. Compare. Invest. In Your Language.
 <img width="939" height="864" alt="image" src="https://github.com/user-attachments/assets/68707e3d-8ec5-4242-ae9d-96cdfce6b00a" />
+<img width="491" height="747" alt="image" src="https://github.com/user-attachments/assets/1b6cf751-5dd2-48ff-b911-990d4bc369f4" />
+<img width="475" height="739" alt="image" src="https://github.com/user-attachments/assets/b7deecb9-6a65-4e3f-bcdc-eb1a9e0867e3" />
+<img width="493" height="746" alt="image" src="https://github.com/user-attachments/assets/25c061fc-d5fd-4fd5-b630-54146dd5d005" />
+<img width="488" height="766" alt="image" src="https://github.com/user-attachments/assets/bdc7e115-471a-456f-b328-69011966b5f1" />
+<img width="486" height="744" alt="image" src="https://github.com/user-attachments/assets/7da68fe6-1ae3-43d3-9f76-f523c1ba28c7" />
+<img width="483" height="737" alt="image" src="https://github.com/user-attachments/assets/c4be30e6-3831-4976-95f0-fd4cc5fbae9a" />
+
 <img width="994" height="1004" alt="image" src="https://github.com/user-attachments/assets/5dc2b5e9-bb00-4540-9011-342e3485f3d1" />
 
 
