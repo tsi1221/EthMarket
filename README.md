@@ -10,7 +10,7 @@ tsehayneshbiruh2@gmail.com
 
 Mahilet Biruh
 Product & Development Lead
-mahiletbiruh35@gmail.com
+tsehayneshbiruh35@gmail.com
 
  🎯 THE PROBLEM
 
